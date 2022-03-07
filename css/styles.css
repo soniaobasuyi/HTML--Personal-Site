@@ -6,17 +6,15 @@ body {
     border-top-style: dotted;
     border-color: grey;
     border-width: 5px;
-    width: 5%;
+    width: 10%;
   }
-  h1 {
+  h1, a {
       color: #055052;
   }
   h3 {
       color: #53B8BB;
   }
-  a {
-    color: #055052;
-  }
+
 #footer {
   padding: 3rem 0;
   text-align: center;
